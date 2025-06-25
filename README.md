@@ -148,13 +148,6 @@ APIKEY|对应角色|服务商|申请地址|
 
 ## Tokens 赞助情况
 
-|品牌logo  | AI服务商 | 赞助Tokens 额度 |新客注册apikey活动|
-|---------|----------|------------|-------|
-|![智谱AI](https://raw.githubusercontent.com/maojindao55/botgroup.chat/refs/heads/main/public/img/bigmodel.png)| 智谱AI | 5.5亿 | [新用户免费赠送专享 2000万 tokens体验包！ ](https://zhipuaishengchan.datasink.sensorsdata.cn/t/9z)|
-|![火山引擎](https://portal.volccdn.com/obj/volcfe/logo/appbar_logo_dark.2.svg)| 字节跳动火山引擎 | 5亿 | 1. [火山引擎大模型新客使用豆包大模型及 DeepSeek R1模型各可享 10 亿 tokens/模型的5折优惠 ，5个模型总计 50 亿 tokens](https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement?LLM=%7B%7D&OpenTokenDrawer=false&projectName=default) <br> <br> 2. [应用实验室助力企业快速构建大模型应用，开源易集成，访问Github获取应用源代码](https://github.com/volcengine/ai-app-lab/tree/main)|
-|![腾讯云](https://cloudcache.tencent-cloud.com/qcloud/portal/kit/images/slice/logo.23996906.svg)| 腾讯混元AI模型 | 1亿 |[新户注册免费200万tokens额度](https://cloud.tencent.com/product/hunyuan)|
-|![monica](https://files.monica.cn/assets/botgroup/monica.png)| Monica团队 | 其他未认领模型所有tokens |[用monica中文版免费和 DeepSeek V3 & R1 对话](https://monica.cn/)|
-
 
 
 
