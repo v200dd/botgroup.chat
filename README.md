@@ -156,7 +156,7 @@ APIKEY|对应角色|服务商|申请地址|
 |![monica](https://files.monica.cn/assets/botgroup/monica.png)| Monica团队 | 其他未认领模型所有tokens |[用monica中文版免费和 DeepSeek V3 & R1 对话](https://monica.cn/)|
 
 
-## Star History
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=maojindao55/botgroup.chat&type=Date)](https://star-history.com/#maojindao55/botgroup.chat&Date)
 
