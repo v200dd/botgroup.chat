@@ -158,7 +158,6 @@ APIKEY|对应角色|服务商|申请地址|
 
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=maojindao55/botgroup.chat&type=Date)](https://star-history.com/#maojindao55/botgroup.chat&Date)
 
 ## 许可证
 
